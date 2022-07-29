@@ -3,7 +3,7 @@
   Three types of Testing
   
   1. Unit Testing 
-  2. Intgrated Tessting
+  2. Intgration Testing
   3. E2E Testing
  
 
